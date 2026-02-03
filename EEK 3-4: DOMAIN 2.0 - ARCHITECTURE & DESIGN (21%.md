@@ -2,7 +2,8 @@
 Week 3: Network Architecture
 Day 8 (Monday): Enterprise Architecture
 
-text
+Day 8 (Monday): Enterprise Architecture
+
 EVENING SESSION:
 1. Study (60 min):
    - Professor Messer Video 2.1 - Architecture
@@ -23,7 +24,8 @@ EVENING SESSION:
    - Segmentation benefits
 Day 9 (Tuesday): Secure Network Design
 
-text
+Day 9 (Tuesday): Secure Network Design
+
 EVENING SESSION:
 1. Study (45 min):
    - Professor Messer Video 2.2 - Secure Networking
